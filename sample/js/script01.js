@@ -25,7 +25,7 @@ $(function(){
          saySomething(txt1);
         })
         $("#button03"),on("click",function(){
-         samTwo (txt1, txt2);
+         makesentence (txt1, txt2);
         })
     
         $("#button04"),on("click", function (){
