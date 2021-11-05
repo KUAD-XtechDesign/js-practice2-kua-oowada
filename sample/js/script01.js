@@ -22,17 +22,18 @@ $(function(){
             sayHello();
         })
         $("#button02").on("click",function(){
+
          saySomething(txt1);
         })
-        $("#button03"),on("click",function(){
-         makesentence (txt1, txt2);
+        $("#button03").on("click",function(){
+         samTwo (txt1, txt2);
         })
     
-        $("#button04"),on("click", function (){
-        samTwo (num1, num2);
+        $("#button04").on("click", function (){
+        samTwo (num1,num2);
         })
     
-        $("#button05"),on("click", function (){
+        $("#button05").on("click", function (){
             samTwo(txt1,txt2);
             samTwo(nam1,num2);
         })
